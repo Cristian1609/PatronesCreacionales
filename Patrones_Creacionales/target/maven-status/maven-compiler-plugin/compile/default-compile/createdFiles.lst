@@ -1,0 +1,11 @@
+Factory\Fabrica.class
+Factory\Principal.class
+Factory\Producto.class
+Prototype\ProductoConcretoA.class
+Singleton\Singleton.class
+Prototype\ProductoConcretoB.class
+Prototype\Principal.class
+Prototype\prototipo.class
+Factory\ProductoConcretoA.class
+Factory\ProductoConcretoB.class
+Singleton\Principal.class
